@@ -32,26 +32,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.BasicCalculator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FileConverterApp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FizzBuzz.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SudokuSolverUI.executor&quot;: &quot;Run&quot;,
-    &quot;Application.sudoku.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Java&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BasicCalculator.executor": "Run",
+    "Application.FileConverterApp.executor": "Run",
+    "Application.FizzBuzz.executor": "Run",
+    "Application.Question1_a_classrooom.executor": "Run",
+    "Application.SecretDecoderRing_Question_2.executor": "Run",
+    "Application.SudokuSolverUI.executor": "Run",
+    "Application.sudoku.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Java",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.FileConverterApp">
+}]]></component>
+  <component name="RunManager" selected="Application.Question1_a_classrooom">
     <configuration name="FileConverterApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FileConverterApp" />
       <module name="DSA coursework gui" />
@@ -66,6 +68,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Question1_a_classrooom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Question1_a_classrooom" />
+      <module name="DSA coursework gui" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SecretDecoderRing_Question_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SecretDecoderRing_Question_2" />
+      <module name="DSA coursework gui" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="sudoku" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sudoku" />
       <module name="DSA coursework gui" />
@@ -75,6 +91,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Question1_a_classrooom" />
+        <item itemvalue="Application.SecretDecoderRing_Question_2" />
         <item itemvalue="Application.FileConverterApp" />
         <item itemvalue="Application.sudoku" />
         <item itemvalue="Application.FizzBuzz" />
@@ -107,7 +125,7 @@
       <workItem from="1723312184765" duration="804000" />
       <workItem from="1723652214806" duration="599000" />
       <workItem from="1723796448699" duration="375000" />
-      <workItem from="1723826201862" duration="1039000" />
+      <workItem from="1723826201862" duration="2138000" />
     </task>
     <servers />
   </component>
