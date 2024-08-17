@@ -102,7 +102,7 @@ public class Question4_a {
         int[][] result = planRoads(n, roads, source, destination, target);
 
         if (result != null) {
-            System.out.println("Solution found:");
+            System.out.println("Question4_b found:");
             for (int[] road : result) {
                 System.out.println(Arrays.toString(road));
             }

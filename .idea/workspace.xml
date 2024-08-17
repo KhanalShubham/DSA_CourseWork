@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="edbdb0bb-824f-4f4c-afd3-db3fddb112fa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/CityRoadPlanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TreeNode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BusBoardingOptimizer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Question3_b.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA coursework gui/BusBoardingOptimizer.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,28 +56,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.CityRoadPlanner">
-    <configuration name="CityRoadPlanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CityRoadPlanner" />
-      <module name="DSA coursework gui" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Question1_a" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Question1_a" />
-      <module name="DSA coursework gui" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Question2_b" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Question2_b" />
-      <module name="DSA coursework gui" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Question4_b (1)">
     <configuration name="Question3_a" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Question3_a" />
       <module name="DSA coursework gui" />
@@ -94,13 +71,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Question4_a" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Question4_a" />
+      <module name="DSA coursework gui" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Question4_b (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Question4_b" />
+      <module name="DSA coursework gui" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Question4_b" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Question4_b" />
+      <module name="DSA coursework gui" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CityRoadPlanner" />
+        <item itemvalue="Application.Question4_b (1)" />
+        <item itemvalue="Application.Question4_b" />
+        <item itemvalue="Application.Question4_a" />
         <item itemvalue="Application.Question3_b" />
         <item itemvalue="Application.Question3_a" />
-        <item itemvalue="Application.Question2_b_movieTheater" />
-        <item itemvalue="Application.Question1_a_classrooom" />
       </list>
     </recent_temporary>
   </component>
@@ -132,7 +130,7 @@
       <workItem from="1723796448699" duration="375000" />
       <workItem from="1723826201862" duration="2412000" />
       <workItem from="1723868404269" duration="9000" />
-      <workItem from="1723878964594" duration="1058000" />
+      <workItem from="1723878964594" duration="1497000" />
     </task>
     <servers />
   </component>
