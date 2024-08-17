@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="edbdb0bb-824f-4f4c-afd3-db3fddb112fa" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/FriendshipNetwork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Question2_b.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FileConverterApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/FileConverterApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA coursework gui/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA coursework gui/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Question1_a_classrooom.java" beforeDir="false" afterPath="$PROJECT_DIR$/Question1_a.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +38,9 @@
     &quot;Application.BasicCalculator.executor&quot;: &quot;Run&quot;,
     &quot;Application.FileConverterApp.executor&quot;: &quot;Run&quot;,
     &quot;Application.FizzBuzz.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question1_a_classrooom.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question2_b_movieTheater.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SecretDecoderRing_Question_2.executor&quot;: &quot;Run&quot;,
     &quot;Application.SudokuSolverUI.executor&quot;: &quot;Run&quot;,
     &quot;Application.sudoku.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
@@ -51,7 +55,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.FileConverterApp">
+  <component name="RunManager" selected="Application.FriendshipNetwork">
     <configuration name="FileConverterApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FileConverterApp" />
       <module name="DSA coursework gui" />
@@ -59,15 +63,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FizzBuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FizzBuzz" />
+    <configuration name="FriendshipNetwork" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FriendshipNetwork" />
       <module name="DSA coursework gui" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sudoku" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sudoku" />
+    <configuration name="Question1_a" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Question1_a" />
+      <module name="DSA coursework gui" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Question2_b" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Question2_b" />
+      <module name="DSA coursework gui" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SecretDecoderRing_Question_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SecretDecoderRing_Question_2" />
       <module name="DSA coursework gui" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -75,9 +93,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FriendshipNetwork" />
+        <item itemvalue="Application.Question2_b_movieTheater" />
+        <item itemvalue="Application.Question1_a_classrooom" />
+        <item itemvalue="Application.SecretDecoderRing_Question_2" />
         <item itemvalue="Application.FileConverterApp" />
-        <item itemvalue="Application.sudoku" />
-        <item itemvalue="Application.FizzBuzz" />
       </list>
     </recent_temporary>
   </component>
@@ -107,7 +127,9 @@
       <workItem from="1723312184765" duration="804000" />
       <workItem from="1723652214806" duration="599000" />
       <workItem from="1723796448699" duration="375000" />
-      <workItem from="1723826201862" duration="1039000" />
+      <workItem from="1723826201862" duration="2412000" />
+      <workItem from="1723868404269" duration="9000" />
+      <workItem from="1723878964594" duration="407000" />
     </task>
     <servers />
   </component>

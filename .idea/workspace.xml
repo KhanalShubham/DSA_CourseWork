@@ -5,9 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="edbdb0bb-824f-4f4c-afd3-db3fddb112fa" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/BusBoardingOptimizer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Question2_b.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Question3_a.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FileConverterApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/FileConverterApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Question1_a_classrooom.java" beforeDir="false" afterPath="$PROJECT_DIR$/Question1_a.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/DSA coursework gui/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA coursework gui/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA coursework gui/Question1_a_classrooom$Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA coursework gui/Question1_a_classrooom.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,9 +40,12 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.BasicCalculator.executor": "Run",
+    "Application.BusBoardingOptimizer.executor": "Run",
     "Application.FileConverterApp.executor": "Run",
     "Application.FizzBuzz.executor": "Run",
+    "Application.FriendshipNetwork.executor": "Run",
     "Application.Question1_a_classrooom.executor": "Run",
+    "Application.Question2_b_movieTheater.executor": "Run",
     "Application.SecretDecoderRing_Question_2.executor": "Run",
     "Application.SudokuSolverUI.executor": "Run",
     "Application.sudoku.executor": "Run",
@@ -53,23 +61,30 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Question1_a_classrooom">
-    <configuration name="FileConverterApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FileConverterApp" />
+  <component name="RunManager" selected="Application.BusBoardingOptimizer">
+    <configuration name="BusBoardingOptimizer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BusBoardingOptimizer" />
       <module name="DSA coursework gui" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FizzBuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FizzBuzz" />
+    <configuration name="Question1_a" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Question1_a" />
       <module name="DSA coursework gui" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question1_a_classrooom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Question1_a_classrooom" />
+    <configuration name="Question2_b" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Question2_b" />
+      <module name="DSA coursework gui" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Question3_a" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Question3_a" />
       <module name="DSA coursework gui" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -82,20 +97,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sudoku" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sudoku" />
-      <module name="DSA coursework gui" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BusBoardingOptimizer" />
+        <item itemvalue="Application.Question3_a" />
+        <item itemvalue="Application.Question2_b_movieTheater" />
         <item itemvalue="Application.Question1_a_classrooom" />
         <item itemvalue="Application.SecretDecoderRing_Question_2" />
-        <item itemvalue="Application.FileConverterApp" />
-        <item itemvalue="Application.sudoku" />
-        <item itemvalue="Application.FizzBuzz" />
       </list>
     </recent_temporary>
   </component>
@@ -125,7 +133,9 @@
       <workItem from="1723312184765" duration="804000" />
       <workItem from="1723652214806" duration="599000" />
       <workItem from="1723796448699" duration="375000" />
-      <workItem from="1723826201862" duration="2138000" />
+      <workItem from="1723826201862" duration="2412000" />
+      <workItem from="1723868404269" duration="9000" />
+      <workItem from="1723878964594" duration="730000" />
     </task>
     <servers />
   </component>

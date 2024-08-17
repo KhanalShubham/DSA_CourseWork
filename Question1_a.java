@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Question1_a_classrooom {
+public class Question1_a {
     static class Solution {
         public int mostBooked(int n, int[][] meetings) {
             // Sort meetings by start time, then by duration if start times are equal
