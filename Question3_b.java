@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class BusBoardingOptimizer {
+public class Question3_b {
 
     public static int[] rearrangePassengers(int[] passengers, int k) {
         int n = passengers.length;
