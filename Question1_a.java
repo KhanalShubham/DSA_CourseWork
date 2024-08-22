@@ -1,39 +1,49 @@
 import java.util.*;
 
 public class Question1_a {
+
     static class Solution {
+
+        /**
+         * Method to find the most booked meeting room.
+         * @param n The number of available meeting rooms.
+         * @param meetings A 2D array where each element is a meeting represented by its start and end time.
+         * @return The index of the room that was booked the most times.
+         */
         public int mostBooked(int n, int[][] meetings) {
-            // Sort meetings by start time, then by duration if start times are equal
+            // Sort meetings by start time; if start times are equal, sort by duration
             Arrays.sort(meetings, (a, b) -> a[0] != b[0] ? a[0] - b[0] : (a[1] - a[0]) - (b[1] - b[0]));
 
-            // PriorityQueue to keep track of available rooms (room number)
+            // PriorityQueue to track available rooms, ordered by room number
             PriorityQueue<Integer> availableRooms = new PriorityQueue<>();
             for (int i = 0; i < n; i++) {
                 availableRooms.offer(i);
             }
 
-            // PriorityQueue to keep track of occupied rooms (end time, room number)
+            // PriorityQueue to track occupied rooms, ordered by end time and room number
             PriorityQueue<long[]> occupiedRooms = new PriorityQueue<>((a, b) -> a[0] != b[0] ? Long.compare(a[0], b[0]) : Long.compare(a[1], b[1]));
 
+            // Array to count how many times each room has been used
             int[] roomUsageCount = new int[n];
 
+            // Iterate over each meeting
             for (int[] meeting : meetings) {
                 long startTime = meeting[0];
                 long endTime = meeting[1];
 
-                // Free up rooms that have become available
+                // Free up rooms that have become available by the current meeting start time
                 while (!occupiedRooms.isEmpty() && occupiedRooms.peek()[0] <= startTime) {
                     int roomToFree = (int) occupiedRooms.poll()[1];
                     availableRooms.offer(roomToFree);
                 }
 
                 if (!availableRooms.isEmpty()) {
-                    // Room is available, use it
+                    // If there is an available room, use it for the current meeting
                     int room = availableRooms.poll();
                     occupiedRooms.offer(new long[]{endTime, room});
                     roomUsageCount[room]++;
                 } else {
-                    // No room available, delay the meeting
+                    // If no room is available, delay the meeting to the next available room time
                     long[] nextAvailable = occupiedRooms.poll();
                     long newEndTime = nextAvailable[0] + (endTime - startTime);
                     int room = (int) nextAvailable[1];
@@ -42,7 +52,7 @@ public class Question1_a {
                 }
             }
 
-            // Find the room with the highest usage
+            // Find the room with the highest usage count
             int maxUsage = 0;
             int result = 0;
             for (int i = 0; i < n; i++) {

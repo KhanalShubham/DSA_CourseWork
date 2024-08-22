@@ -1,30 +1,46 @@
 import java.util.Arrays;
 
 public class SecretDecoderRing_Question_2 {
+
     static class Solution {
+        /**
+         * This method decodes a given string by applying a series of shifts to its characters.
+         *
+         * @param s The original string to be decoded.
+         * @param shifts A 2D array where each entry specifies the start and end indices
+         *               for the shift, and the direction of the shift (1 for right, 0 for left).
+         * @return The decoded string after applying all the shifts.
+         */
         public String decodeMessage(String s, int[][] shifts) {
+            // Convert the string to a character array for easier manipulation
             char[] message = s.toCharArray();
             int n = message.length;
+
+            // Array to store the net effect of shifts at each position
             int[] rotations = new int[n + 1];
 
             // Process all shifts
             for (int[] shift : shifts) {
                 int start = shift[0];
                 int end = shift[1];
-                int direction = shift[2] == 1 ? 1 : -1;
+                int direction = shift[2] == 1 ? 1 : -1; // 1 for right shift, -1 for left shift
 
+                // Increment at the start of the shift and decrement right after the end
                 rotations[start] += direction;
                 rotations[end + 1] -= direction;
             }
 
-            // Calculate cumulative rotations
+            // Calculate cumulative rotations and apply them to each character in the message
             int currentRotation = 0;
             for (int i = 0; i < n; i++) {
                 currentRotation += rotations[i];
+
+                // Calculate the new character after applying the rotation
                 int shift = ((message[i] - 'a' + currentRotation) % 26 + 26) % 26;
                 message[i] = (char) ('a' + shift);
             }
 
+            // Return the new string formed after all shifts
             return new String(message);
         }
     }
