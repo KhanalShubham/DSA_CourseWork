@@ -24,13 +24,16 @@ public class FileConverterApp extends JFrame {
 
     public FileConverterApp() {
         super("File Converter");
+        // Initialize the GUI components
         initComponents();
+        // Initialize the ExecutorService
         initExecutorService();
     }
 
     private void initComponents() {
         setLayout(new BorderLayout());
 
+        // Create the top panel with buttons and combo box
         JPanel topPanel = new JPanel();
         selectFilesButton = new JButton("Select Files");
         selectOutputDirButton = new JButton("Select Output Directory");
@@ -39,6 +42,7 @@ public class FileConverterApp extends JFrame {
         cancelButton = new JButton("Cancel");
         cancelButton.setEnabled(false);
 
+        // Add buttons and combo box to the top panel
         topPanel.add(selectFilesButton);
         topPanel.add(selectOutputDirButton);
         topPanel.add(conversionTypeComboBox);
@@ -65,11 +69,13 @@ public class FileConverterApp extends JFrame {
         setLocationRelativeTo(null);
     }
 
+    // Initialize the ExecutorService with a thread pool equal to the number of available processors
     private void initExecutorService() {
         executorService = Executors.newFixedThreadPool(Runtime.getRuntime().availableProcessors());
     }
 
     private void attachListeners() {
+        //attaching a action listener to buttons
         selectFilesButton.addActionListener(e -> selectFiles());
         selectOutputDirButton.addActionListener(e -> selectOutputDirectory());
         startButton.addActionListener(e -> startConversion());
@@ -78,6 +84,7 @@ public class FileConverterApp extends JFrame {
 
     private void selectFiles() {
         JFileChooser fileChooser = new JFileChooser();
+        //allowing multiple files selection
         fileChooser.setMultiSelectionEnabled(true);
         int result = fileChooser.showOpenDialog(this);
         if (result == JFileChooser.APPROVE_OPTION) {
@@ -97,6 +104,7 @@ public class FileConverterApp extends JFrame {
     }
 
     private void startConversion() {
+        // Validate if files and output directory are selected
         if (selectedFiles == null || selectedFiles.isEmpty()) {
             JOptionPane.showMessageDialog(this, "Please select files first.");
             return;

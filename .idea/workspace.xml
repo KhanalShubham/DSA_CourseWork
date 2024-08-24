@@ -6,23 +6,25 @@
   <component name="ChangeListManager">
     <list default="true" id="edbdb0bb-824f-4f4c-afd3-db3fddb112fa" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeliveryRouteOptimizer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Question1_a.java" beforeDir="false" afterPath="$PROJECT_DIR$/Question1_a.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Question2_b.java" beforeDir="false" afterPath="$PROJECT_DIR$/Question2_b.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Question3_a.java" beforeDir="false" afterPath="$PROJECT_DIR$/Question3_a.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Question7_routeOptimization.java" beforeDir="false" afterPath="$PROJECT_DIR$/Question7_routeOptimization.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SecretDecoderRing_Question_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/SecretDecoderRing_Question_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/BasicCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FileConverterApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/FileConverterApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Question3_b.java" beforeDir="false" afterPath="$PROJECT_DIR$/Question3_b.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Question4_a.java" beforeDir="false" afterPath="$PROJECT_DIR$/Question4_a.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Question4_b.java" beforeDir="false" afterPath="$PROJECT_DIR$/Question4_b.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Question5_a.java" beforeDir="false" afterPath="$PROJECT_DIR$/Question5_a.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Question5_b.java" beforeDir="false" afterPath="$PROJECT_DIR$/Question5_b.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Question_7routeOptimization.java" beforeDir="false" afterPath="$PROJECT_DIR$/Question_7routeOptimization.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/DSA coursework gui/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA coursework gui/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA coursework gui/DeliveryRouteOptimizer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA coursework gui/Question1_a$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA coursework gui/Question1_a$Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA coursework gui/Question1_a.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA coursework gui/Question1_a.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA coursework gui/Question2_b.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA coursework gui/Question2_b.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA coursework gui/Question3_a.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA coursework gui/Question3_a.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA coursework gui/RouteOptimizationGUI$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA coursework gui/RouteOptimizationGUI$GraphPanel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA coursework gui/RouteOptimizationGUI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA coursework gui/SecretDecoderRing_Question_2$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA coursework gui/SecretDecoderRing_Question_2$Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA coursework gui/SecretDecoderRing_Question_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA coursework gui/SecretDecoderRing_Question_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA coursework gui/BasicCalculator$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA coursework gui/BasicCalculator$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA coursework gui/BasicCalculator$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA coursework gui/BasicCalculator$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA coursework gui/BasicCalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA coursework gui/BasicCalculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA coursework gui/Question3_b.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA coursework gui/Question3_b.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA coursework gui/Question4_a.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA coursework gui/Question4_a.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA coursework gui/Question4_b$Result.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA coursework gui/Question4_b$Result.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA coursework gui/Question4_b$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA coursework gui/Question4_b$TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA coursework gui/Question4_b.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA coursework gui/Question4_b.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA coursework gui/Question_7routeOptimization$CustomGraphPanel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA coursework gui/Question_7routeOptimization.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA coursework gui/Question_7routeOptimization.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,83 +49,82 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.BasicCalculator.executor": "Run",
-    "Application.BusBoardingOptimizer.executor": "Run",
-    "Application.CityRoadPlanner.executor": "Run",
-    "Application.DeliveryRouteOptimizer.executor": "Run",
-    "Application.FileConverterApp.executor": "Run",
-    "Application.FizzBuzz.executor": "Run",
-    "Application.FriendshipNetwork.executor": "Run",
-    "Application.Question1_a (1).executor": "Run",
-    "Application.Question1_a.executor": "Run",
-    "Application.Question1_a_classrooom.executor": "Run",
-    "Application.Question2_b.executor": "Run",
-    "Application.Question2_b_movieTheater.executor": "Run",
-    "Application.Question3_b.executor": "Run",
-    "Application.Question4_b (1).executor": "Run",
-    "Application.Question5_a.executor": "Run",
-    "Application.Question5_b.executor": "Run",
-    "Application.Question7_routeOptimization (1).executor": "Run",
-    "Application.Question7_routeOptimization.executor": "Run",
-    "Application.RouteOptimizationGUI (1).executor": "Run",
-    "Application.RouteOptimizationGUI (2).executor": "Run",
-    "Application.RouteOptimizationGUI.executor": "Run",
-    "Application.SecretDecoderRing_Question_2.executor": "Run",
-    "Application.Solution.executor": "Run",
-    "Application.SudokuSolverUI.executor": "Run",
-    "Application.TSPUsingHillClimbing.executor": "Run",
-    "Application.UniqueRouteOptimization.executor": "Run",
-    "Application.sudoku.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Java",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.BasicCalculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BusBoardingOptimizer.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CityRoadPlanner.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DeliveryRouteOptimizer.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FileConverterApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FizzBuzz.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FriendshipNetwork.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question1_a (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question1_a.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question1_a_classrooom.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question2_b.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question2_b_movieTheater.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question3_a.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question3_b.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question4_a.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question4_b (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question4_b.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question5_a.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question5_b.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question7_routeOptimization (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question7_routeOptimization.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question_7routeOptimization (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question_7routeOptimization (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question_7routeOptimization.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RouteOptimizationGUI (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.RouteOptimizationGUI (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.RouteOptimizationGUI.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SecretDecoderRing_Question_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Solution.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SudokuSolverUI.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TSPUsingHillClimbing.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UniqueRouteOptimization.executor&quot;: &quot;Run&quot;,
+    &quot;Application.sudoku.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Java&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Question_7routeOptimization (1)">
-    <configuration name="Question7_routeOptimization (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Question7_routeOptimization" />
+  <component name="RunManager" selected="Application.FileConverterApp">
+    <configuration name="BasicCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BasicCalculator" />
       <module name="DSA coursework gui" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question7_routeOptimization" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Question7_routeOptimization" />
+    <configuration name="FileConverterApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FileConverterApp" />
       <module name="DSA coursework gui" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question7_routeOptimization" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Question7_routeOptimization" />
+    <configuration name="Question3_a" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Question3_a" />
       <module name="DSA coursework gui" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question7_routeOptimization" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Question7_routeOptimization" />
-      <module name="DSA coursework gui" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Question_7routeOptimization (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Question_7routeOptimization" />
+    <configuration name="Question5_b" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Question5_b" />
       <module name="DSA coursework gui" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -136,20 +137,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UniqueRouteOptimization" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UniqueRouteOptimization" />
-      <module name="DSA coursework gui" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Question_7routeOptimization (1)" />
+        <item itemvalue="Application.FileConverterApp" />
+        <item itemvalue="Application.Question5_b" />
         <item itemvalue="Application.Question_7routeOptimization" />
-        <item itemvalue="Application.UniqueRouteOptimization" />
-        <item itemvalue="Application.Question7_routeOptimization (1)" />
-        <item itemvalue="Application.Question7_routeOptimization" />
+        <item itemvalue="Application.Question3_a" />
+        <item itemvalue="Application.BasicCalculator" />
       </list>
     </recent_temporary>
   </component>
@@ -187,7 +181,10 @@
       <workItem from="1724003701693" duration="1309000" />
       <workItem from="1724071149110" duration="21000" />
       <workItem from="1724257285996" duration="2303000" />
-      <workItem from="1724304316569" duration="4653000" />
+      <workItem from="1724304316569" duration="19347000" />
+      <workItem from="1724379088084" duration="8000" />
+      <workItem from="1724380621768" duration="280000" />
+      <workItem from="1724489838153" duration="1113000" />
     </task>
     <servers />
   </component>
